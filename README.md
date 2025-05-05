@@ -15,7 +15,6 @@ This **Decentralized Arbitration Court** is a smart contract built on the Ethere
 5. [Testing](#testing)
 6. [Interacting with the Contract](#interacting-with-the-contract)
 7. [Security Considerations](#security-considerations)
-8. [Future Improvements](#future-improvements)
 
 ---
 
